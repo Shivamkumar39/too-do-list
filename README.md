@@ -25,4 +25,5 @@ A simple To-Do List React app using React Icons and Tailwind CSS, with localStor
     React Icons ^4.x
 
     Tailwind CSS (optional, adjust styles if not used)  //you can youse another as well.  
+![Screenshot 2025-05-27 135219](https://github.com/user-attachments/assets/4048f655-783b-4219-a3d5-604fda1f8f58)
 
